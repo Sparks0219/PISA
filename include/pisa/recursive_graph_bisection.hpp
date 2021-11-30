@@ -18,6 +18,7 @@
 #include "util/log.hpp"
 #include "util/progress.hpp"
 #include "util/single_init_vector.hpp"
+#include "estimationBytes.h"
 
 namespace pisa {
 const Log2<4096> log2;
